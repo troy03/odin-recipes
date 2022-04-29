@@ -2,7 +2,7 @@
 
 ## What I have Learn
 
-* Common Taggs
-*Semantic Tags
-*Linking Images and Pages
+- Common Taggs
+- Semantic Tags
+- Linking Images and Pages
 
